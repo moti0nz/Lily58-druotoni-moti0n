@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gui_state.h": "c",
+        "stdio.h": "c"
+    }
+}
